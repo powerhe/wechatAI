@@ -38,3 +38,8 @@ def text_reply(msg):
 itchat.auto_login()
 itchat.run()
 ```
+
+## Have a try
+- image classification wechat robot
+- auto replay wechat robot
+- auto translate wechat robot
